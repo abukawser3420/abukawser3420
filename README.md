@@ -1,23 +1,29 @@
-<h1 align="center">Hi 👋, I'm Md.Abu Kawsar</h1>
-<h3 align="center">Web Developer</h3>
+# Hi there 👋, Md. Abu Kawsar
+### Web Developer
+![Web Developer](https://www.linkedin.com/posts/abu-kawsar-410279159_i-continue-to-strive-to-become-a-full-strack-activity-7116075752101474304-OteK?utm_source=share&utm_medium=member_desktop)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abukawser3420&label=Profile%20views&color=0e75b6&style=flat" alt="abukawser3420" /> </p>
+I like learning new skills. Now I'm learning JavaScript. Complete and fresh hand-crafted code is my forte. Customer satisfaction is my top priority.
 
-- 🌱 I’m currently learning **JavaScript**
+Skills: HTML / CSS/JS/Bootstrap/WordPress Customization
 
-- 📫 How to reach me **abukawser3420@gmail.com**
+- 🌱 I’m currently learning JavaScript 
+- 📫 How to reach me: abukawser3420@gmail.com 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abu-kawsar-410279159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abu-kawsar-410279159" height="30" width="40" /></a>
-<a href="https://fb.com/abu.kawsar.18488" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu.kawsar.18488" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@md.abukawsar3896" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@md.abukawsar3896" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abukawser3420)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abu-kawsar-410279159/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abu.kawsar.18488)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@md.abukawsar3896)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abukawser3420&show_icons=true&locale=en&layout=compact" alt="abukawser3420" /></p>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abukawser3420&show_icons=true&locale=en" alt="abukawser3420" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=abukawser3420)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abukawser3420)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abukawser3420&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=abukawser3420)  
+
+![GitHub metrics](https://metrics.lecoq.io/abukawser3420)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=abukawser3420)  
+
+![Profile views](https://gpvc.arturio.dev/abukawser3420)  
