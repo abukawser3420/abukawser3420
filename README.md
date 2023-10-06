@@ -1,6 +1,6 @@
-# Hi there 👋, Md. Abu Kawsar
-### Web Developer
-![Web Developer](https://www.linkedin.com/posts/abu-kawsar-410279159_i-continue-to-strive-to-become-a-full-strack-activity-7116075752101474304-OteK?utm_source=share&utm_medium=member_desktop)
+## Hi there 👋, Md. Abu Kawsar
+#### Web Developer
+![Web Developer](https://scontent.fcla4-1.fna.fbcdn.net/v/t39.30808-6/387195003_3636843403259613_8295166196128652640_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=49d041&_nc_eui2=AeE8aEiYZzexEi6D1mEzcd0Ri4Hx_ttS5r2LgfH-21LmvZcSj9F9izj4qKWiIQRynThOWd6i2oNeWL1wwcdL--Bf&_nc_ohc=bYgf2J58aD8AX-b-rUd&_nc_ht=scontent.fcla4-1.fna&cb_e2o_trans=t&oh=00_AfCdH0kTCs_mpDFXzXkNvw7Dn1NmVdtNAogUhAyT4aoF5Q&oe=65257DF0)
 
 I like learning new skills. Now I'm learning JavaScript. Complete and fresh hand-crafted code is my forte. Customer satisfaction is my top priority.
 
